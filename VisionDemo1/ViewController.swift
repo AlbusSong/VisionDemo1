@@ -9,7 +9,7 @@ import UIKit
 import MapboxDirections
 import MapboxCoreNavigation
 import MapboxNavigation
-import MapboxVision
+import MapboxVision 
 import MapboxVisionAR
 import MapboxVisionSafety
 
